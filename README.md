@@ -60,10 +60,7 @@ Merge the channels and convert the image back to BGR format.
 ### Step 11:
 Display original color image, histogram, enhanced image, and enhanced histogram using a 2 × 2 grid.
 
-### Developed By:
-**Name:** Dodla Susmitha
 
-**Register No:** 212224110016
 
 ## Program
 ```
