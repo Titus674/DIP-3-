@@ -98,9 +98,11 @@ plt.xlim([0, 256])
 - Histogram of enhanced grayscale image shows improved contrast
 ### OUTPUT:
 
-<img width="755" height="595" alt="Screenshot 2026-08-08 090147" src="https://github.com/user-attachments/assets/b951afbd-f34a-4b30-b881-adcf94e37bcb" />
+<img width="699" height="507" alt="image" src="https://github.com/user-attachments/assets/6f165d8c-0274-472b-b953-1cc2e3160116" />
 
-<img width="752" height="642" alt="Screenshot 2026-08-08 090156" src="https://github.com/user-attachments/assets/53d7a2c1-519b-4321-adc8-c0b98f465dac" />
+
+<img width="899" height="541" alt="image" src="https://github.com/user-attachments/assets/bd7307e9-8f1a-4e56-ae71-053d97d4694f" />
+
 
 ### Color Image Histogram Equalization
 
@@ -109,9 +111,10 @@ plt.xlim([0, 256])
 - Enhanced image after HSV-based equalization is displayed  
 - Histogram of enhanced image shows better intensity distribution  
 
-<img width="791" height="601" alt="image" src="https://github.com/user-attachments/assets/b9d1270f-0506-4934-a68e-1e9efd7dd372" />
+<img width="728" height="520" alt="image" src="https://github.com/user-attachments/assets/4aa5f247-9758-42db-8f02-0afaba8a93ac" />
 
-<img width="871" height="623" alt="Screenshot 2026-08-08 090418" src="https://github.com/user-attachments/assets/45afb593-e569-4466-9b57-1fb96a8a9da1" />
+<img width="842" height="548" alt="image" src="https://github.com/user-attachments/assets/36f72bd8-abe1-4cf0-834d-6ec15f358f69" />
+
 
 ---
 
